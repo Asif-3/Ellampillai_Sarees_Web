@@ -119,7 +119,7 @@ export default function Footer() {
 
                             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
                                 <a
-                                    href="tel:+919597268293"
+                                    href="tel:+919080731265"
                                     className="group p-4 bg-white/5 hover:bg-white/10 border border-white/10 hover:border-amber-400/30 rounded-xl transition-all duration-300"
                                 >
                                     <div className="flex items-center gap-3">
